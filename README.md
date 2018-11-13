@@ -7,13 +7,11 @@ Repository of Lecture and HW Codes for Practice Machine Learning Course on Cours
 - caretSample_Spam.R
 - caretSample_Wage.R
 
-&nbsp;
 
 ### Quiz Solution Codes
 - Week 3
 - Week 4
 
-&nbsp;
 
 ### Final Assignment
 - Machine Learning Code
