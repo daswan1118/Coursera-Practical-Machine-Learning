@@ -1,10 +1,9 @@
-Please view https://daswan1118.github.io/Coursera-Practical-Machine-Learning/ for the full documentation
+Please view https://daswan1118.github.io/Coursera_PML_Project/description.html for the html documentation
 
 # Practical-Machine-Learning-Course-Project
-Predictng 
+
 
 ### 1. Understanding Data & Feature Selection
-- 
 
 
 ### 2. Pre-processing
